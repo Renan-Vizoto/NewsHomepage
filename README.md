@@ -1,4 +1,12 @@
-# Frontend Mentor - News homepage
+## Desafio Frontend Mentor
+
+Este projeto é de um desafio do site fronted mentor, onde eles dão temas de sites, de diferentes estilos e níveis de dificuldade.
+
+Este é o meu primeiro desafio: News Homepage.
+
+
+
+<!--# Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
@@ -92,4 +100,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
