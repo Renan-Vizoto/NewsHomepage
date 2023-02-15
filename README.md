@@ -1,8 +1,4 @@
-## Desafio Frontend Mentor
-
-Este projeto é de um desafio do site fronted mentor, onde eles dão temas de sites, de diferentes estilos e níveis de dificuldade.
-
-Este é o meu primeiro desafio: News Homepage.
+## Landing Page - News HomePage
 
 
 
